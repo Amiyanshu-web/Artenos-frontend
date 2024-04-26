@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.card{
+
+  background: aliceblue;
+  box-shadow: 0 10px 5px black;
+  width: 400px;
+}
